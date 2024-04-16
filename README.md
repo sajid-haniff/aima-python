@@ -1,4 +1,8 @@
+import sys
+sys.path.append('/content/aima-python/')
 
+from mdp import *
+from my_notebook import psource, pseudocode, plot_pomdp_utility
 
 # `aima-python` [![Build Status](https://travis-ci.org/aimacode/aima-python.svg?branch=master)](https://travis-ci.org/aimacode/aima-python) [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/aimacode/aima-python)
 
